@@ -1,5 +1,7 @@
 # mmm
 
+___Public version of the repo. This version does not contain any code, only some file samples and a description.___
+
 ## About
 
 This project uses infinitepay transactions to create music.
