@@ -17,9 +17,9 @@ Sadly, I couldn't get this to work live...
 ### 2. Listen to some pre-generated clips
 
 You can download some clips from the `songs` folder or just clicking on these links:
-- https://github.com/fabio-a-oliveira/mmm/raw/main/songs/mmm_2022_07_03-12_49_40.mid
-- https://github.com/fabio-a-oliveira/mmm/raw/main/songs/mmm_2022_07_03-12_50_27.mid
-- https://github.com/fabio-a-oliveira/mmm/raw/main/songs/mmm_2022_07_03-12_51_10.mid
+- https://github.com/fabio-a-oliveira/mmm_public/raw/main/songs/mmm_2022_07_03-12_49_40.mid
+- https://github.com/fabio-a-oliveira/mmm_public/raw/main/songs/mmm_2022_07_03-12_50_27.mid
+- https://github.com/fabio-a-oliveira/mmm_public/raw/main/songs/mmm_2022_07_03-12_51_10.mid
 
 If you can't execute them locally, you can view them online by using this online midi player: https://cifkao.github.io/html-midi-player/ 
 
