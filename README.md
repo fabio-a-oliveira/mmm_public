@@ -2,6 +2,8 @@
 
 ___Public version of the repo. This version does not contain any code, only some file samples and a description.___
 
+The full repository is available at this link (if you have the proper access): https://github.com/fabio-a-oliveira/mmm
+
 ## About
 
 This project uses infinitepay transactions to create music.
